@@ -102,7 +102,3 @@ PORT=8000
 │   ├── gesture_mlp_model.h5
 │   └── label.json
 ```
-
----
-
-> Dibuat untuk **SiLa – Sign Language Application** 💡 Menghubungkan komunikasi melalui teknologi.
