@@ -95,7 +95,8 @@ PORT=8000
 ## Struktur Proyek
 
 ```
-.
+sila-backend
+├── README.md
 ├── main.py
 ├── requirements.txt
 ├── model/
